@@ -2,15 +2,19 @@
 Introduction
 Welcome to the Tic-Tac-Toe Game! This is a classic two-player game where players take turns marking spaces in a 3x3 grid. The goal is to be the first to get three of your marks in a row (horizontally, vertically, or diagonally). This project is built to showcase my programming skills and provide a fun, interactive experience.
 
-Features
+<h1>Features</h1>
 Two-Player Mode: Play against a friend on the same device.
-
+<br>
+<br>
 Responsive Design: Works on desktop, tablet, and mobile devices.
-
+<br>
+<br>
 Simple Interface: Easy-to-use and intuitive UI.
-
+<br>
+<br>
 Win Detection: Automatically detects when a player wins or if the game is a draw.
-
+<br>
+<br>
 Restart Option: Quickly reset the game to play again.
 
 Installation
