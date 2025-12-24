@@ -17,19 +17,23 @@ Win Detection: Automatically detects when a player wins or if the game is a draw
 <br>
 Restart Option: Quickly reset the game to play again.
 
-Installation
+<h1>⚙Installation</h1>
 To run this game locally, follow these steps:
 
 Clone the Repository:
 
 bash
 Copy
+```
 git clone https://github.com/your-username/tic-tac-toe.git
+```
 Navigate to the Project Directory:
 
 bash
 Copy
+```
 cd tic-tac-toe
+```
 Open the Game:
 
  open index.html in your browser.
