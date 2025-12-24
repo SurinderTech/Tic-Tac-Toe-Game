@@ -40,46 +40,46 @@ Open the Game:
 
 bash
 Copy
-js tic_tac_toe.js
-How to Play
-The game starts with an empty 3x3 grid.
+js tic_tac_toe.js<br>
+How to Play<br>
+The game starts with an empty 3x3 grid.<br>
 
-Player 1 is X, and Player 2 is O.
+Player 1 is X, and Player 2 is O.<br>
 
-Take turns clicking on the grid to place your mark.
+Take turns clicking on the grid to place your mark.<br>
 
-The first player to get three of their marks in a row wins!
+The first player to get three of their marks in a row wins!<br>
 
-If all spaces are filled and no one has won, the game ends in a draw.
+If all spaces are filled and no one has won, the game ends in a draw.<br>
 
-Click the "Restart" button to play again.
+Click the "Restart" button to play again.<br>
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript (for web-based games).
+Technologies Used.<br>
+Frontend: HTML, CSS, JavaScript (for web-based games).<br>
 
 
-Tools: Git, VS Code, etc.
+Tools: Git, VS Code, etc.<br>
 
 Contributing
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
 Fork the repository.
 
-Create a new branch (git checkout -b feature/YourFeatureName).
+Create a new branch (git checkout -b feature/YourFeatureName).<br>
 
-Commit your changes (git commit -m 'Add some feature').
+Commit your changes (git commit -m 'Add some feature').<br>
 
-Push to the branch (git push origin feature/YourFeatureName).
+Push to the branch (git push origin feature/YourFeatureName).<br>
 
-Open a pull request.
+Open a pull request.<br>
 
-Please ensure your code follows the project's style and includes appropriate documentation.
+Please ensure your code follows the project's style and includes appropriate documentation.<br>
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-If you have any questions, suggestions, or just want to say hi, feel free to reach out:
+Contact<br>
+If you have any questions, suggestions, or just want to say hi, feel free to reach out:<br>
 
 Email: surinderkumar3182@gmail.com
 
